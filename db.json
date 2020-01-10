@@ -1,11 +1,13 @@
 {
-  "data": {
-    "projects": {
-      "project": {
-        "id": "123456",
-        "project_number": "10001",
-        "name": "rojekti"
-      }
-    } 
+  "dummy": {
+    "data": {
+      "projects": {
+        "project": {
+          "id": "123456",
+          "project_number": "10001",
+          "name": "rojekti"
+        }
+      } 
+    }
   }
 }
